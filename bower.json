@@ -1,0 +1,20 @@
+{
+    "name": "creditCalc",
+    "version": "0.0.0",
+    "authors": [
+        "Filip Sobalski <pinkeen@gmail.com>"
+    ],
+    "license": "MIT",
+    "private": true,                                                                                                                                                                                                 
+    "ignore": [                                                                                                                                                                                                      
+        "**/.*",                                                                                                                                                                                                     
+        "node_modules",                                                                                                                                                                                              
+        "components"
+    ],                                                                                                                                                                                                               
+    "dependencies": {                                                                                                                                                                                                
+        "jquery": "~2.1",                                                                                                                                                                                           
+        "bootstrap": "~3.1",
+        "fontawesome": "~4.1",
+        "open-sans-fontface": "~1.1"
+    }                                                                                                                                                                                                                
+}
